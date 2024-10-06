@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fc0bed42c1e1a1499e1d9165a0a00d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreTxt: {instanceID: 0}
+  - scorePanel: {fileID: 7351832286563026612, guid: c70940dae1080aa44a24e53e47ad541c, type: 3}
+  - finalScoreTxt: {fileID: 2066139428422953737, guid: dceb0e71759445a4dad186a293ad779a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
